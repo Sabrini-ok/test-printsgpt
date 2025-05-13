@@ -1,0 +1,4 @@
+Name,Slug,Collection ID,Locale ID,Item ID,Archived,Draft,Created On,Updated On,Published On
+Drinks,drinks,68227926fb3c25f83411ef2f,68227926fb3c25f83411ef25,68227926fb3c25f83411efc9,false,false,Wed Apr 01 2020 01:34:13 GMT+0000 (Coordinated Universal Time),Wed Apr 01 2020 01:34:13 GMT+0000 (Coordinated Universal Time),Thu Apr 02 2020 21:50:18 GMT+0000 (Coordinated Universal Time)
+Sides,sides,68227926fb3c25f83411ef2f,68227926fb3c25f83411ef25,68227926fb3c25f83411efc2,false,false,Wed Apr 01 2020 01:33:55 GMT+0000 (Coordinated Universal Time),Wed Apr 01 2020 01:33:55 GMT+0000 (Coordinated Universal Time),Thu Apr 02 2020 21:50:18 GMT+0000 (Coordinated Universal Time)
+Burgers,burgers,68227926fb3c25f83411ef2f,68227926fb3c25f83411ef25,68227926fb3c25f83411efc3,false,false,Wed Apr 01 2020 01:33:46 GMT+0000 (Coordinated Universal Time),Wed Apr 01 2020 01:33:46 GMT+0000 (Coordinated Universal Time),Thu Apr 02 2020 21:50:18 GMT+0000 (Coordinated Universal Time)
